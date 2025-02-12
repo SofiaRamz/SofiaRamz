@@ -1,6 +1,7 @@
 ## ¡Hola!
 
 Soy Sofía Ramírez Chávez, tengo 19 años, soy estudiante de ingenieria en sistemas computacionales del Instituto Tecnologico campus Tlajomulco, trabajo en San Miguel Autolavado, siendo un negocio familiar
+Número de control: 23940403
 
 ### Estudios
 - Curso de ingles
@@ -41,8 +42,6 @@ Soy Sofía Ramírez Chávez, tengo 19 años, soy estudiante de ingenieria en sis
 - Sociable
 - Disciplinada
 - Responsable
-
-Número de control: 23940403
 
 <!--
 **SofiaRamz/SofiaRamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

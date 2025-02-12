@@ -2,6 +2,7 @@
 
 Soy Sofía Ramírez Chávez, tengo 19 años, soy estudiante de ingenieria en sistemas computacionales del Instituto Tecnologico campus Tlajomulco, trabajo en San Miguel Autolavado, siendo un negocio familiar.
 <br />
+<br />
 Número de control: 23940403
 
 ### Estudios
